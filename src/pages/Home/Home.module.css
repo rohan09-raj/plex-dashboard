@@ -1,0 +1,23 @@
+.home__container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 30rem;
+    gap: var(--margin-medium-lm);
+    height: 100%;
+    justify-content: center;
+    margin: var(--margin-medium-sm);
+    padding: var(--margin-medium-s);
+}
+
+@media screen and (max-width: 768px) {
+    .home__container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+}
+
+@media screen and (max-width: 625px) {
+    .home__container {
+        grid-template-columns: 1fr;
+    }
+}

@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "image": "assets/images/sonarr.png",
+      "title": "Sonarr",
+      "url": "http://192.168.29.144:8989"
+    },
+    {
+      "id": 2,
+      "image": "assets/images/radarr.png",
+      "title": "Radarr",
+      "url": "http://192.168.29.144:7878"
+    },
+    {
+      "id": 3,
+      "image": "assets/images/prowlarr.png",
+      "title": "Prowlarr",
+      "url": "http://192.168.29.144:9696"
+    },
+    {
+      "id": 4,
+      "image": "assets/images/lidarr.png",
+      "title": "Lidarr",
+      "url": "http://192.168.29.144:8686"
+    },
+    {
+      "id": 5,
+      "image": "assets/images/qbittorent.svg",
+      "title": "Qbittorrent",
+      "url": "http://192.168.29.144:8080"
+    },
+    {
+      "id": 6,
+      "image": "assets/images/linux-dash.png",
+      "title": "Linux Dash",
+      "url": "http://192.168.29.144:1234"
+    }
+  ]
+  

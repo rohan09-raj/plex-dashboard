@@ -1,0 +1,10 @@
+.header__container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 8vh;
+}
+
+.header__title {
+    color: var(--color-light);
+}
