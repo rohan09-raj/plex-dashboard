@@ -7,7 +7,7 @@
     },
     {
       "id": 2,
-      "image": "assetlocalhostr.png",
+      "image": "assets/images/radarr.png",
       "title": "Radarr",
       "url": "http://localhost:7878"
     },
