@@ -31,9 +31,9 @@
     },
     {
       "id": 6,
-      "image": "assets/images/linux-dash.png",
-      "title": "Linux Dash",
-      "url": "http://localhost:1234"
+      "image": "assets/images/jellyfin.svg",
+      "title": "Jellyfin",
+      "url": "http://localhost:8096"
     }
   ]
   
